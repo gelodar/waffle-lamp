@@ -1,7 +1,14 @@
 !
 ! Title: AdGuard home Whitelist
 
+!Allow
 @@||three.ma^
 @@||lenovo.com^
 @@||threema.ch^
 @@||chanenkov.ch^
+@@||mailcow.ch^
+@@||grafana.com^
+
+!Disallow
+
+||usher.api.myqnapcloud.com^
