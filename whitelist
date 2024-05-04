@@ -16,3 +16,4 @@
 !Disallow
 ||usher.api.myqnapcloud.com^
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^
+||checkip.dyndns.com^
